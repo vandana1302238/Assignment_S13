@@ -18,14 +18,14 @@ repo contains all the code required during training in different modules
 # Training Logs
 
 <p align="center">
-    <img src="images/log.PNG" alt="centered image" />
+    <img src="log.PNG" alt="centered image" />
 </p>
 
 
 # Results
 Output graphs in tensorboard
 <p align="center">
-    <img src="images/graph.PNG" alt="centered image" />
+    <img src="graph.PNG" alt="centered image" />
 </p>
 
 
