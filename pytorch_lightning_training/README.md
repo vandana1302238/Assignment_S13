@@ -28,6 +28,9 @@ Output graphs in tensorboard
     <img src="graph.PNG" alt="centered image" />
 </p>
 
-
+Missclassified images
+<p align="center">
+    <img src="misclassified_images.PNG" alt="centered image" />
+</p>
 
 
